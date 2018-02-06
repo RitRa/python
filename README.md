@@ -1,17 +1,17 @@
 # python
 Semester one: programming and scripting
 
-Week1
+# Week1
 Exercise 1
 Fibonacci
 Fib.py
 
-Week 2
+# Week 2
 Exercise 2
 ord()
 
 
-Week 3
+# Week 3
 Is it Tuesday? program
 - Checks if it is Tuesday
 
