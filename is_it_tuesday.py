@@ -6,6 +6,6 @@ import datetime
 z = datetime.datetime.today().weekday()
 
 if( z == 1 ):
-    print("Yay!!! it is Tuesday")
+    print("Yay!!! It is Tuesday")
 else:
     print("Not Tuesday, boooooo")
