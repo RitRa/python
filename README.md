@@ -3,18 +3,20 @@ Semester one: programming and scripting
 
 # Week1
 Exercise 1
-Fibonacci    Fib.py
+Fib.py
+
 
 # Week 2
 Exercise 2
-ord()    ord.py
+ord.py
+-uses ord()
 
 
 # Week 3
-Is it Tuesday? program    is_it_tuesday.py
+is_it_tuesday.py program    is_it_tuesday.py
 - Checks if it is Tuesday
 
-Fizz Buzz Program
+fizz_buzz.py Program
 - Numbers divisible by 3 prints "Fizz", divisible by 5 prints "Buzz", divisible by both "Fizz Buzz" 
 
 The Collatz Conjecture program    collatz_conjecture.py
