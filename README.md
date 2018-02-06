@@ -14,6 +14,7 @@ ord.py
 
 # Week 3
 Is it Tuesday? program
+is_it_tuesday.py
 - Checks if it is Tuesday
 
 Fizz Buzz Program
