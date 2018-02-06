@@ -1,7 +1,7 @@
 # Collatz conjecture
 # The conjecture is that no matter what value of n, the sequence will always reach 1.
 
-#n = 12
+#n = 17
 
 #asking the user to pick an interger to test
 n = int(input("Pick a number:  "))
