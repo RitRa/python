@@ -33,7 +33,7 @@ while (i <= 100):
 print("The sum of even numbers of 1 to 100: ", sum)
 
 # A different way to do it    
-# sums the numbers fro 1 to 100 only even numbers
+# sums the numbers from 1 to 100 only even numbers
 i = 0
 sum = 0
 
