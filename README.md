@@ -27,3 +27,9 @@ collatz_conjecture.py program
 # Week 4
 guessinggame.py
 - The Guessing game: Generates a random number and asks the user to guess what the number is
+
+# Week 5
+loopsum.py
+- Loops sums the numbers from 1 to 100
+- Loops sums the numbers from 1 to 100 only even numbers
+- Loops sums the numbers from 1 to 100 only even numbers with improvements
