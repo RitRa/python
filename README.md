@@ -33,3 +33,7 @@ loopsum.py
 - Loops sums the numbers from 1 to 100
 - Loops sums the numbers from 1 to 100 only even numbers
 - Loops sums the numbers from 1 to 100 only even numbers with improvements
+lists.py
+- print lists, mixed lists, length, range 
+listloop.py
+- while loops and for loops
