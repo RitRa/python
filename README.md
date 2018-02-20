@@ -37,3 +37,5 @@ lists.py
 - print lists, mixed lists, length, range 
 listloop.py
 - while loops and for loops
+range.py
+- range and loops
