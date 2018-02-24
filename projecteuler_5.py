@@ -5,13 +5,13 @@
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 # https://projecteuler.net/problem=5
 
-number = 2520
+#number = 2520
 
-for i in range(1, 11):
+#for i in range(1, 11):
     # use the double // to get rid of the decimal
-    print(i, number // i)
+    #print(i, number // i)
 
-a = 1
+#a = 1
 
 #for i in newnumber:
 #range equals 5
