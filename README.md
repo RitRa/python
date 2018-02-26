@@ -13,8 +13,8 @@ ord.py
 
 
 # Week 3
-is_it_tuesday.py program    is_it_tuesday.py
-- Checks if it is Tuesday
+is_it_tuesday.py 
+- Programs checks if it is Tuesday
 
 
 fizz_buzz.py Program
