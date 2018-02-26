@@ -1,4 +1,4 @@
-# python
+# Python
 Semester one: programming and scripting
 
 # Week1
