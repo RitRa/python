@@ -60,3 +60,12 @@ The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the number 600851475143 ?
 https://projecteuler.net/problem=3# LearnPythonThehardWay
 
+# Week 6
+openfile.py
+- How to open a file in python
+
+openfile2.py
+- more advanced opening, reading and closing a file
+
+format.py
+- How to format an output
