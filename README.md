@@ -69,3 +69,6 @@ openfile2.py
 
 format.py
 - How to format an output
+
+iris_exercise
+- using panda
