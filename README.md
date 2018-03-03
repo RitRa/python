@@ -70,5 +70,5 @@ openfile2.py
 format.py
 - How to format an output
 
-iris_exercise
+iris_exercise.py
 - using panda
