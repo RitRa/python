@@ -26,7 +26,6 @@ def gcd2(x, y):
     else:
         return x
     
-
 print("GCD of 6 and 15: ", gcd2(6, 15))
 print("GCD of 56 and 1544: ", gcd2(56, 1544))
 z = gcd2(221, 323)
