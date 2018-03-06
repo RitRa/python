@@ -14,7 +14,7 @@ z = gcd(221, 323)
 print("GCD of 56 and 1544: ", z)
 
 #optimising the function using the %
-def gcd(x, y):
+def gcd2(x, y):
     while x != 0 and y != 0:
         if x > y:
             x = x % y
@@ -27,7 +27,7 @@ def gcd(x, y):
         return x
     
 
-print("GCD of 6 and 15: ", gcd(6, 15))
-print("GCD of 56 and 1544: ", gcd(56, 1544))
-z = gcd(221, 323)
+print("GCD of 6 and 15: ", gcd2(6, 15))
+print("GCD of 56 and 1544: ", gcd2(56, 1544))
+z = gcd2(221, 323)
 print("GCD of 56 and 1544: ", z)
