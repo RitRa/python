@@ -1,3 +1,5 @@
+# Rita Raher 06-03-2018
+# functions
 def sumall(upto):
     sumupto = 0 
     for i in range(1, upto + 1):
