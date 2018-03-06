@@ -76,3 +76,6 @@ iris_exercise.py
 # Week 7
 functions.py
 - sum of numbers in a range
+
+gcd.py
+- Greatest Common Divisor
