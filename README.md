@@ -72,3 +72,7 @@ format.py
 
 iris_exercise.py
 - using panda
+
+# Week 7
+functions.py
+- sum of numbers in a range

@@ -15,20 +15,3 @@ print(df)
 
 
 
-
-
-
-
-
-
-"""with open("data/iris.csv") as f:
-    #contents = f.read()
-    #print(contents)
-    print('Petal length',)
-    for line in f:
-        #print(""line.split(',')[0],  line.split(',')[1])
-        #print(line.split(',')[0], line.split(',')[1], line.split(',')[2], line.split(',')[3], line.split(',')[4])
-        print(line[1])
-        #print('{:2d} {:2d} {:3d} {:4d} {:5d}'.format(line[0], line[1], line[2], line[3], line[4]))
-  
-"""
