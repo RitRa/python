@@ -79,3 +79,6 @@ functions.py
 
 gcd.py
 - Greatest Common Divisor
+
+exercise6.py
+- factorial function for 5, 7, 10
